@@ -12,3 +12,5 @@ Good luck progressing your journey to break past infinity :)
 
 # Development
 This game is in a beta build, expect bugs, updates, and changes to the game
+
+Also, this is an upcoming game, so it's a work in progress
