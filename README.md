@@ -1,5 +1,5 @@
 # Infinity Numbers Simulator: The Game
-Infinity Numbers Simulator is an **Android** game that will take you on an adventure of achieving infinite possibilities! You will be able to explore a variety of numbers and triggers, break through past infinities, and upgrade your equation to unlock even more infinities.
+Infinity Numbers Simulator is a **Website** game that will take you on an adventure of achieving infinite possibilities! You will be able to explore a variety of numbers and triggers, break through past infinities, and upgrade your equation to unlock even more infinities.
 
 Along the way, you'll be challenged to think outside the box and reach your ultimate goal of infinite success. With a unique and exciting gameplay experience, Infinity Numbers Simulator is sure to provide hours of fun and challenge.
 
